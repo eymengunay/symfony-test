@@ -1,0 +1,14 @@
+{
+    "name": "eo/symfony-test-edition",
+    "description": "Stripped down edition of Symfony2 for executing bundle tests",
+    "require": {
+        "symfony/symfony": ">=2.1,<2.4-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eymen Gunay",
+            "email": "eymen@egunay.com"
+        }
+    ]
+}
