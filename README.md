@@ -97,4 +97,4 @@ This bundle is under the MIT license. See the complete license in:
 ```
 
 ## Reporting an issue or a feature request
-Issues and feature requests related to this bundle are tracked in the Github issue tracker https://github.com/eymengunay/PassbookBundle/issues. PHP-Passbook related issues and requests should be opened under php-passbook library repository: https://github.com/eymengunay/php-passbook/issues
+Issues and feature requests related to this bundle are tracked in the Github issue tracker https://github.com/eymengunay/symfony-standardissues.
