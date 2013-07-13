@@ -97,4 +97,4 @@ This bundle is under the MIT license. See the complete license in:
 ```
 
 ## Reporting an issue or a feature request
-Issues and feature requests related to this bundle are tracked in the Github issue tracker https://github.com/eymengunay/symfony-standard/issues.
+Issues and feature requests related to this bundle are tracked in the Github [issue tracker](https://github.com/eymengunay/symfony-test/issues).
