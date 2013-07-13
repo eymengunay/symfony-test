@@ -90,10 +90,10 @@ function registerBundles() {
 You are now ready for executing your tests. For a real-world example you can have a look at [PassbookBundle](https://github.com/eymengunay/PassbookBundle).
 
 ## License
-This bundle is under the MIT license. See the complete license in the bundle:
+This bundle is under the MIT license. See the complete license in:
 
 ```
-Resources/meta/LICENSE
+./LICENSE
 ```
 
 ## Reporting an issue or a feature request
