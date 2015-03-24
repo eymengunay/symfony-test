@@ -2,7 +2,7 @@
     "name": "eo/symfony-test-edition",
     "description": "Stripped down edition of Symfony2 for executing bundle tests",
     "require": {
-        "symfony/symfony": ">=2.1,<2.6-dev"
+        "symfony/symfony": ">=2.1,<2.7-dev"
     },
     "license": "MIT",
     "authors": [
