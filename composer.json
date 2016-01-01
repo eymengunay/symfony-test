@@ -1,8 +1,8 @@
 {
     "name": "eo/symfony-test-edition",
-    "description": "Stripped down edition of Symfony2 for executing bundle tests",
+    "description": "Stripped down edition of Symfony3 for executing bundle tests",
     "require": {
-        "symfony/symfony": ">=2.7,<3.0"
+        "symfony/symfony": "~3.0"
     },
     "license": "MIT",
     "authors": [
