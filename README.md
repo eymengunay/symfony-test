@@ -1,6 +1,6 @@
 # Symfony Test Edition
 
-Welcome to the Symfony Test Edition - a light-weight Symfony2 application that you can use as the skeleton for your bundle tests.
+Welcome to the Symfony Test Edition - a light-weight Symfony3 application that you can use as the skeleton for your bundle tests.
 
 This document contains information on how to download, install, and start using Symfony Test Edition.
 
@@ -12,7 +12,7 @@ This document contains information on how to download, install, and start using 
 # composer.json
 {
     "require-dev": {
-        "eo/symfony-test": "dev-master"
+        "eo/symfony-test": "~3.0"
     }
 }
 ```
@@ -47,7 +47,7 @@ Example phpunit.xml configuration:
             <directory>./Tests/</directory>
         </testsuite>
     </testsuites>
- 
+
     <php>
         <server name="KERNEL_DIR" value="./vendor/eo/symfony-test-edition/app" />
     </php>
